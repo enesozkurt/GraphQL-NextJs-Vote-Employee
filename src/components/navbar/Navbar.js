@@ -1,7 +1,7 @@
 "use client";
 import Link from "next/link";
 import { styled } from "styled-components";
-import Links from "./links/links";
+import Links from "./links/Links";
 
 const Container = styled.div`
   height: 100px;
